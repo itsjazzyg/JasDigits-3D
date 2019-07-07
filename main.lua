@@ -1,0 +1,11 @@
+require("initialize3D")
+require("output3D")
+require("moves3D")
+require("newnum3D")
+require("rand3D")
+require("tableops3D")
+require("val3D")
+require("ui3D")
+require("_version")
+
+load()
